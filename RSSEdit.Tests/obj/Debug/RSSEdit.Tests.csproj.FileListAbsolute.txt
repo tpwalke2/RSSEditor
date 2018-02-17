@@ -1,0 +1,13 @@
+C:\Source\HEAD\DotNetSource\RSSEdit.Tests\bin\Debug\RSSEdit.Tests.dll
+C:\Source\HEAD\DotNetSource\RSSEdit.Tests\bin\Debug\RSSEdit.Tests.pdb
+C:\Source\HEAD\DotNetSource\RSSEdit.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\HEAD\DotNetSource\RSSEdit.Tests\obj\Debug\RSSEdit.Tests.dll
+C:\Source\HEAD\DotNetSource\RSSEdit.Tests\obj\Debug\RSSEdit.Tests.pdb
+C:\Source\HEAD\DotNetSource\RSSEdit.Tests\bin\Debug\RSSEdit.exe
+C:\Source\HEAD\DotNetSource\RSSEdit.Tests\bin\Debug\RSSEdit.pdb
+C:\Source\HEAD\DotNetSource\RSSEdit.Tests\bin\Debug\nunit.framework.dll
+C:\Source\HEAD\DotNetSource\RSSEdit.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Source\HEAD\DotNetSource\RSSEdit.Tests\bin\Debug\nunit.framework.xml
+C:\Source\HEAD\DotNetSource\RSSEdit.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Source\HEAD\DotNetSource\bin\Debug\RSSEdit.Tests.dll
+C:\Source\HEAD\DotNetSource\bin\Debug\RSSEdit.Tests.pdb
